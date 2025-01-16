@@ -1,0 +1,33 @@
+Script started on 2023-12-06 15:16:42-05:00 [TERM="xterm-256color" TTY="/dev/pts/29" COLUMNS="120" LINES="30"]
+]0;hzeesha@compute:~/courses/cs2211/Asn/asn5[?2004h[hzeesha@compute asn5]$ make
+[?2004lgcc -o mymatrix datatype.c bstree.c matrix.c main.c
+./mymatrix
+Please enter a sequence of integer string pairs, press CTRL+D to end input:
+8 70 Oxford Street 
+10 Abott     bot  ott Street
+101 Western Road 
+10 Abbott Sre  treet
+Number     Street                    Occurrence
+10         Abbott Street             2.000000
+70         Oxford Street             1.000000
+101        Western Road              1.000000
+]0;hzeesha@compute:~/courses/cs2211/Asn/asn5[?2004h[hzeesha@compute asn5]$ ./mymatrix <tes[K[K[K test.txt
+[?2004lPlease enter a sequence of integer string pairs, press CTRL+D to end input:
+Number     Street                    Occurrence
+100        1st Street                1.000000
+8          3 Valleys Place           1.000000
+74         3rd Street                1.000000
+4          4 Oaks Crescent           1.000000
+10         Abbott Street             2.000000
+204        Beech Drive               1.000000
+36         Beechbank Crescent        1.000000
+36         Beechmount Crescent       1.000000
+46         Oxford Street             1.000000
+70         Oxford Street             3.000000
+101        Western Road              2.000000
+]0;hzeesha@compute:~/courses/cs2211/Asn/asn5[?2004h[hzeesha@compute asn5]$ make clean
+[?2004lrm mymatrix
+]0;hzeesha@compute:~/courses/cs2211/Asn/asn5[?2004h[hzeesha@compute asn5]$ ls[K[Kexit
+[?2004lexit
+
+Script done on 2023-12-06 15:17:37-05:00 [COMMAND_EXIT_CODE="0"]
