@@ -40,7 +40,7 @@ This project implements an **associative matrix** in **C**, where entries are in
 ### Run the program interactively:
   ```bash
   ./mymatrix
-  ```
+```
   Enter a sequence of integer-string pairs, pressing Ctrl+D to terminate input. For example:
   70 Oxford Street
   10 Abbott Street
