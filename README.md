@@ -48,6 +48,7 @@ This project implements an **associative matrix** in **C**, where entries are in
 
 ### Input from File
   You can also redirect input from a file:
+  ```bash
   ./mymatrix < sampleInput.txt
   
 ### Example Output
