@@ -83,3 +83,6 @@ This project implements an **associative matrix** in **C**, where entries are in
 - Managing dynamic memory safely using malloc and free.
 - Designing modular C programs with multiple files.
 - Building efficient and scalable data structures.
+
+## Contributing
+Contributions are welcome! Feel free to fork this repository, submit pull requests, or open issues.
