@@ -71,11 +71,11 @@ This project implements an **associative matrix** in **C**, where entries are in
 1. Compile the program:
    ```bash
    make
-``` 
+   ``` 
 2. Run the program interactively or with input redirection:
    ```bash
    ./mymatrix < sampleInput.txt
-``` 
+   ``` 
 3. make clean
 
 ## What You’ll Learn
