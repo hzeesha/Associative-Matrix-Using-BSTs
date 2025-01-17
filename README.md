@@ -29,15 +29,17 @@ This project implements an **associative matrix** in **C**, where entries are in
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Associative-Matrix-Using-BSTs.git
+   git clone https://github.com/hzeesha/Associative-Matrix-Using-BSTs.git
    cd Associative-Matrix-Using-BSTs
 2. Compile the program using the provided Makefile:
-   make (bash)
+   ```bach
+   make
 
 ## Usage
 
 ### Run the program interactively:
-  ./mymatrix (bash)
+  ```bash
+  ./mymatrix
   Enter a sequence of integer-string pairs, pressing Ctrl+D to terminate input. For example:
   70 Oxford Street
   10 Abbott Street
@@ -64,8 +66,10 @@ This project implements an **associative matrix** in **C**, where entries are in
 
 ## Testing
 1. Compile the program:
-   make (bash)
+   ```bash
+   make 
 2. Run the program interactively or with input redirection:
+   ```bash
    ./mymatrix < sampleInput.txt
 3. make clean
 
